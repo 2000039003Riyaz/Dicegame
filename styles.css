@@ -1,0 +1,22 @@
+body{
+    background-image:
+    linear-gradient(to right , #3f5efb,#fc466b);
+}
+.wrapper{
+    width: 100%;
+    margin:auto;
+    text-align: center;
+}
+h1{
+    margin :30px;
+    font-size:7rem;
+    color:rgb(208,214,218);
+}
+.dice-area{
+    margin:0px 50px;
+    text-align: center;
+    display: inline-block;
+}
+img{
+    width: 200px;
+}
